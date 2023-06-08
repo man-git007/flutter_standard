@@ -1,4 +1,5 @@
 # flutter_standard
+[![CodeFactor](https://www.codefactor.io/repository/github/man-git007/flutter_standard/badge)](https://www.codefactor.io/repository/github/man-git007/flutter_standard)
 
 A new Flutter project.
 
